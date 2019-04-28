@@ -1,5 +1,5 @@
 .container {
-    width: 512px;
+    width: auto;
     margin: auto;
     margin-top: 20px;
 }
@@ -16,3 +16,16 @@
 .btn {
     margin: 5px;
 }
+
+.noleftpadding {
+    padding-left: 0 !important;
+ }
+
+ .norightpadding {
+     padding-right: 0 !important;
+ }
+
+ .btn-primary {
+    background: #f18f01;
+    border: #f18f01;
+ }
